@@ -83,7 +83,6 @@ public class GetOPCData extends AbstractProcessor {
             .required(true)
             .addValidator(StandardValidators.FILE_EXISTS_VALIDATOR)
             .sensitive(false)
-            .expressionLanguageSupported(ExpressionLanguageScope.VARIABLE_REGISTRY)
             .build();
 
     public static final PropertyDescriptor EXCLUDE_NULL_VALUE = new PropertyDescriptor

@@ -44,11 +44,11 @@
             <artifactId>nifi-opcua-service-api</artifactId>
             <version>1.0</version>
         </dependency>
-        <!--<dependency>
+        <dependency>
             <groupId>de.fraunhofer.fit</groupId>
             <artifactId>nifi-opcua-service</artifactId>
             <version>1.0</version>
-        </dependency>-->
+        </dependency>
     </dependencies>
 
 </project>

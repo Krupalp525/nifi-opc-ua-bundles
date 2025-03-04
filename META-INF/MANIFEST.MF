@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.9.9
+Built-By: Krupa
+Build-Jdk: 11.0.26
+Build-Timestamp: 2025-03-04T16:13:47Z
+Clone-During-Instance-Class-Loading: false
+Build-Branch: master
+Nar-Version: 1.0
+Build-Tag: nifi-1.7.1-RC1
+Build-Revision: d96e790
+Nar-Group: de.fraunhofer.fit
+Nar-Id: nifi-opcua-nar
+
